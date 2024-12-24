@@ -1,0 +1,4 @@
+num=int(input("enter first numbers"))
+num1=int(input("enter second number"))
+def sub(num,num1)
+    return(num-num1)
